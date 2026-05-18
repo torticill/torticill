@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Soulen Torticill.
 
-<!--
-**torticill/torticill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Engineer • Realtime Systems Developer • Simulation Designer
 
-Here are some ideas to get you started:
+I build scalable software, immersive web experiences, and realtime simulations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+[![Tech Stack](https://skillicons.dev/icons?i=java,cs,cpp,c,rust,linux,unity,js,ts,react,py)](https://skillicons.dev)
+
+---
+
+## 🌍 Connect
+
+- Portfolio: https://soulen.dev
+- LinkedIn: https://www.linkedin.com/in/soulen-torticill-1b572b40b/
