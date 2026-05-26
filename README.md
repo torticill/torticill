@@ -16,3 +16,4 @@ I build scalable software, immersive web experiences, and realtime simulations.
 
 - Portfolio: https://soulen.dev
 - LinkedIn: https://www.linkedin.com/in/soulen-torticill-1b572b40b/
+- Email: mailto:hello@soulen.dev
